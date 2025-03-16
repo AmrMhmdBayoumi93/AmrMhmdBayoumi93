@@ -10,11 +10,11 @@
 />
 
 
-- 🌱 I’m currently learning **ASP.NET Backend Development**
+- 🌱 I’m currently learning **C#, ASP.NET Backend Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AmrMhmdBayoumi93](https://github.com/AmrMhmdBayoumi93)
 
-- 💬 Ask me about **ASP.NET**
+- 💬 Ask me about **C#, ASP.NET Core**
 
 - 📫 How to reach me **amb600680@gmail.com**
 
