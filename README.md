@@ -10,11 +10,11 @@
 />
 
 
-- 🌱 I’m currently learning **Flutter, Dart.**
+- 🌱 I’m currently learning **ASP.NET Backend Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AmrMhmdBayoumi93](https://github.com/AmrMhmdBayoumi93)
 
-- 💬 Ask me about **Flutter**
+- 💬 Ask me about **ASP.NET**
 
 - 📫 How to reach me **amb600680@gmail.com**
 
