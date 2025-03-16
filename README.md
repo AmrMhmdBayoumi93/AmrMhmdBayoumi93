@@ -6,7 +6,7 @@
   align="right"
   alt="Coding"
   width="425"
-  src="https://miro.medium.com/v2/resize:fit:679/1*KcxCTzISut_FEkKduDE4hw.gif"
+  src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTxd2k5z7QmUnuqnZa7V_pmsDF4Pgdn4bnpPNzHXSd5C1SUJ3yN4UY7fMgGMDV_tuqEce7qKjre4Yg7vQ5Q8ohq4mOaC_JihnPbBOsNJA"
 />
 
 
