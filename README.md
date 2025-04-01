@@ -6,7 +6,7 @@
   align="right"
   alt="Coding"
   width="425"
-  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLqLLtyeVe7MDkCAAIxWGrTCyfykia-E9_OQA0di_NsCQ9yPHkTg3HKT2xMGeOnCz1woM&usqp=CAU"
+  src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/512px-.NET_Core_Logo.svg.png?20210328084203"
 />
 
 
