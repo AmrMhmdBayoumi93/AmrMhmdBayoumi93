@@ -10,11 +10,11 @@
 />
 
 
-- 🌱 I’m currently learning **C#, ASP.NET Backend Development**
+- 🌱 I’m currently learning **C#, Microsoft Sql Server, Linq, EF, .NET Core Backend Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AmrMhmdBayoumi93](https://github.com/AmrMhmdBayoumi93)
 
-- 💬 Ask me about **C#, ASP.NET Core**
+- 💬 Ask me about **C#, Database, ASP.NET Core**
 
 - 📫 How to reach me **amb600680@gmail.com**
 
