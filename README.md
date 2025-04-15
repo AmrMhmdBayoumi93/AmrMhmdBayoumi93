@@ -10,7 +10,7 @@
 />
 
 
-- 🌱 I’m currently learning **C#, Microsoft Sql Server, LinQ, EF, .NET Core Backend Development**
+- 🌱 I’m currently learning **C#, Microsoft Sql Server, LinQ, EF, ASP.NET Core Backend Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AmrMhmdBayoumi93](https://github.com/AmrMhmdBayoumi93)
 
