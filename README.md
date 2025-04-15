@@ -20,7 +20,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/amr muhammad bayoumi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amr muhammad bayoumi" height="30" width="40" /></a>
+<a href="http://www.linkedin.com/in/amr-elshazly-193b1535a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amr muhammad bayoumi" height="30" width="40" /></a>
 <a href="https://fb.com/amr mhmd bayoumi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="amr mhmd bayoumi" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/amrmhmdbayoumi93" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="amrmhmdbayoumi93" height="30" width="40" /></a>
 </p>
