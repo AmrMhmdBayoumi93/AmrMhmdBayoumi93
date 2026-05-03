@@ -1,13 +1,7 @@
 # AmrMhmdBayoum93
 <h1 align="center">Hi 👋, I'm Amr Muhammad Bayoumi</h1>
 <h3 align="center">Full Stack Developer | MERN Stack Focus | .NET Backend Learner</h3>
-
-<img
-  align="right"
-  alt="Coding"
-  width="420"
-  src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/512px-.NET_Core_Logo.svg.png"
-/>
+ 
 
 🚀 CS Fresh Graduate | Passionate about building scalable web applications  
 
