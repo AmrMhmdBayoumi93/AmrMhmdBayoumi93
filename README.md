@@ -1,35 +1,30 @@
 # AmrMhmdBayoum93
+
 <h1 align="center">Hi 👋, I'm Amr Muhammad Bayoumi</h1>
-<h3 align="center">Full Stack Developer | MERN Stack Focus | .NET Backend Learner</h3>
- 
-
-🚀 CS Fresh Graduate | Passionate about building scalable web applications  
-
-🎯 **Current Focus (May → September 2026):**
-- 🔥 Mastering **MERN Stack**
-  - Node.js
-  - Express.js
-  - MongoDB
-  - React.js
-- ⚡ Building real-world full stack projects
-- 📦 Strengthening problem solving & system design basics
-
-🎯 **Next Step (After MERN):**
-- 💡 Transitioning to **.NET Backend Development**
-  - ASP.NET Core
-  - SQL Server
-  - Clean Architecture & Design Patterns
+<h3 align="center">MERN Stack Developer | .NET Backend Enthusiast</h3>
 
 ---
 
-- 👨‍💻 All of my projects:  
+🚀 CS Fresh Graduate | Passionate about building scalable and efficient web applications
+
+💻 **About Me:**
+
+* 🔥 MERN Stack Developer (MongoDB, Express.js, React.js, Node.js)
+* ⚡ Building real-world full stack applications
+* 💡 Interested in Backend Development & System Design
+* 🎯 Continuously improving problem solving and software engineering skills
+* 🧠 Exploring **.NET Backend Development (ASP.NET Core & SQL Server)**
+
+---
+
+* 👨‍💻 All of my projects:
   👉 https://github.com/AmrMhmdBayoumi93
 
-- 💬 Ask me about:  
-  **C#, ASP.NET Core, Databases, Node.js**
+* 💬 Ask me about:
+  **JavaScript, Node.js, React, Databases, C#, ASP.NET Core**
 
-- 📫 Reach me at:  
-  **amb600680@gmail.com**
+* 📫 Reach me at:
+  **[amb600680@gmail.com](mailto:amb600680@gmail.com)**
 
 ---
 
@@ -48,22 +43,27 @@
 <h3 align="left">🛠️ Tech Stack:</h3>
 
 💻 **Frontend:**
-- React.js
-- HTML, CSS, JavaScript
+
+* React.js
+* HTML, CSS, JavaScript
 
 ⚙️ **Backend:**
-- Node.js (Current Focus)
-- ASP.NET Core (Next Step)
+
+* Node.js
+* Express.js
+* ASP.NET Core
 
 🗄️ **Databases:**
-- MongoDB
-- SQL Server
-- MySQL
+
+* MongoDB
+* SQL Server
+* MySQL
 
 🧰 **Tools & Others:**
-- Git & GitHub
-- Linux
-- REST APIs
+
+* Git & GitHub
+* Linux
+* REST APIs
 
 ---
 
@@ -79,7 +79,10 @@
 
 ---
 
-🔥 **Goal 2026:**
-- Build strong portfolio with **MERN projects**
-- Land a **Full Stack / Backend Internship**
-- Become production-ready in **.NET Backend**
+🔥 **Career Goals:**
+
+* Build a strong portfolio with production-ready projects
+* Land a Full Stack / Backend Internship
+* Grow into a professional Backend Engineer (.NET & Node.js)
+
+---
